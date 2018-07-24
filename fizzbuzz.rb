@@ -7,5 +7,5 @@ elsif x % 3 == 0
 elsif x % 5 == 0
 print "buzz"
 else
-  print x 
+  print (x) 
 end
