@@ -1,6 +1,6 @@
 x = gets.strip.to_i
 
-def fizzbuzz
+
 if x % 15 == 0 
 print "fizzbuzz"
 elsif x % 3 == 0 
@@ -11,4 +11,3 @@ else
   print (x) 
 end
 
-fizzbuzz
