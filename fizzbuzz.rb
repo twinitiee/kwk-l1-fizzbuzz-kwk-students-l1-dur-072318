@@ -10,3 +10,5 @@ print "buzz"
 else
   print (x) 
 end
+
+fizzbuzz
