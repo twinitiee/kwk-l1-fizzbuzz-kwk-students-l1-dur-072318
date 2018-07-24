@@ -2,13 +2,13 @@
 
 def fizzbuzz(x)
   if x % 15 == 0 
-    print "fizzbuzz"
+    return "FizzBuzz"
   elsif x % 3 == 0 
-   print "fizz"
+    return "Fizz"
   elsif x % 5 == 0
-    print "buzz"
+    return "Buzz"
   else
-    print (x) 
+    return (x) 
   end
 end
 
