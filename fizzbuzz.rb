@@ -1,4 +1,4 @@
-x = gets.strip.to_i
+
 
 
 if x % 15 == 0 
