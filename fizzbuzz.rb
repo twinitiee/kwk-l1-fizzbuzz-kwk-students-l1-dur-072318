@@ -7,4 +7,4 @@ print "buzz"
 elsif x % 15 == 0 
 print "fizzbuzz"
 else
-  print x 
+  print
